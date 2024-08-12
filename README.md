@@ -1,2 +1,2 @@
 # CSS-Loading-Animation
-I developed This code CSS Loading Spinner Animation using HTML And CSS. To see the website visit https://RoshanSantoshJadhav.me/
+Hey guys in this repository we are going to create a loading spinner animation by using HTML and CSS.
